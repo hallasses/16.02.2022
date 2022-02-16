@@ -59,7 +59,7 @@ int main()
 	      cout << "Введите имя студента длинной не более 24 символов: ";
 	      cin >> name;
 	      cout << endl << "Введите возраст студента: ";
-      	cin >> age;
+    	      cin >> age;
 	      cout << endl << "Введите рейтинг студента: ";
 	      cin >> grade;
 	      FirstStudent.SetName(name);
